@@ -1,0 +1,5 @@
+id,name,is mobile,score
+12000,example.com/csv1,true,454
+12001,example.com/csv2,true,128
+12002,example.com/csv3,false,522
+

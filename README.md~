@@ -1,3 +1,5 @@
+# description
+
 Simple program that reads json and csv files of some specified format and produces json-formatted output file.
 For the simplicity all data manipulations are inside one class (in real world it should be splitted).
 
